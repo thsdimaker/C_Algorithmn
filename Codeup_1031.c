@@ -13,7 +13,7 @@
 
 int main()
 {
-    long long int n;
+    int n;
     scanf("%d", &n);
     printf("%o", n);
 
