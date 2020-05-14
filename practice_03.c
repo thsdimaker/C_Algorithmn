@@ -17,9 +17,9 @@ int message(int c){
 
     for(int i=1;i<=count;i++){
         if(i%2==0){
-            printf("hello world\n");
+            printf("%d. hello world\n", i);
         }else{
-            printf("hi\n");
+            printf("%d. hi\n", i);
         }
     }
 
