@@ -4,6 +4,18 @@ C언어의 처음이자 끝은 printf(); 라고 할 정도로 많은 기초를 �
 
 "사용자가 입력한 숫자 만큼 hello world를 출력해주는 프로그램"
 
+생각해보기)
+hello world를 5번 출력하고 싶습니다.
+
+이때
+printf("hello world");
+printf("hello world");
+printf("hello world");
+printf("hello world");
+printf("hello world");
+
+과연 올바른 방법일까요? 만약에 100개 만약에 1000개 혹은 999999개가 된다면??.. 어떻게 처리할건가요?
+
 ------------------------------------------------------------------------
 
 
